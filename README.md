@@ -1,3 +1,5 @@
+WhereQ Common Utils is designed to provide a lightweight scaffold for Spring Boot applications, with the goal of relieving developers from common tasks such as auditing, interface-level logging, entity initialization, and more. By simplifying these repetitive tasks, developers can focus more on the core functionality of their application, leading to increased productivity, faster development times, and more robust applications. Therefore, WhereQ Common Utils can be a valuable resource for Spring Boot developers who want to streamline their development process and optimize their workflow.
+
 # Usage
 
 ## add to pom.xml
